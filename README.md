@@ -1,1 +1,17 @@
-# shoppingApp
+# Todos
+- [x] Sunucu ve Client kurulumu
+- [x] Sunucu ve Client arasında bağlantı kurulması (API)
+---
+- [x] Products verilerinin sunucudan alınması
+- [x] Products verilerinin client tarafında gösterilmesi
+---
+- [x] Kullanıcı girişi
+- [x] Kullanıcı verilerinin sunucudan alınması
+---
+- [x] Ürün ekleme
+- [x] Sepet verilerinin client tarafında gösterilmesi
+- [x] Sepete ürün ekleme ve çıkartma
+- [x] Sepete eklenen ürünlerin ödeme işlemi
+---
+- [x] Dil desteği eklenmesi
+- [x] Bütün sayfaların dil desteği eklenmesi (Türkçe ve İngilizce)
