@@ -36,18 +36,6 @@ CREATE TABLE `products` (
   `details` longtext CHARACTER SET utf8mb4 COLLATE utf8mb4_general_ci NOT NULL
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_0900_ai_ci;
 
---
--- Tablo döküm verisi `products`
---
-
-INSERT INTO `products` (`id`, `title`, `prod_code`, `price`, `stock`, `details`) VALUES
-(1, 'Sakız', '23213', 1, 9999, 'Dünyanın en iyi sakızını denemek istemeyen almasın.'),
-(2, 'Dido', '32423234', 10, 90, 'Dünyanın en iyi çiklatası'),
-(3, 'Ayçiçek Yağı', '2342332423', 100, 200, 'Çiçek yağı (Ay çiçeği)'),
-(4, 'Kalem', '23242332', 12, 456786543, 'Tüm detaylar hede hödö'),
-(5, 'Kalem', '23242332', 12, 456786543, 'Tüm detaylar hede hödö'),
-(6, 'Silgi', '342332432', 23, 233423442, 'Kalem varsa silgi de vardır');
-
 -- --------------------------------------------------------
 
 --
