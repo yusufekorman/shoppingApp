@@ -147,6 +147,6 @@ app.get('/auth', async (req, res) => {
     }
 })
 
-app.listen(3000, () => {
+app.listen(80, () => {
     console.log('Server is started at port 3000');
 });
